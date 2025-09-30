@@ -1,6 +1,6 @@
 email: adamus.casper@gmail.com 
 
-about me: just a student try to get by 
+about me: just a student trying to get by 
 
 projects
   - laptop from scratch
