@@ -1,7 +1,7 @@
-## Hi there 👋
+email: adamus.casper@gmail.com 
 
-- 🔭 I’m currently working on building my personal website 
-- 🌱 I’m currently learning React
-- 📫 How to reach me: adamus.casper@gmail.com
+about me: just a student try to get by 
 
-
+projects
+  - laptop from scratch
+  - school map website 
